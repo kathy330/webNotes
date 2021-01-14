@@ -11,8 +11,15 @@
 
 ## Clearning
 * For charging
-    > base on the handy
-    * base on hour
+    > reference from  handy
+    * base on hour for specific type(other than house cleaning)
     * base on area (how many bedroom, bathroom, deafult including the living room)
-
+    * add description and postal code
+    *
+    
 *
+
+
+## Note
+* facebook debug
+https://developers.facebook.com/tools/debug/
