@@ -1,4 +1,7 @@
-# webNotes
-This is notes section for the things I learned.
+## charge
+* charge by area
+* charge by hour (user provide hour rate when)
 
-# add new
+
+## to do
+- [ ] wechat alfred workflow. 
