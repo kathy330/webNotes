@@ -2,6 +2,14 @@
 - [ ] wechat alfred workflow. 
 - [ ] shell automation.
 
+## Create a react app
+```zsh
+npx create-react-app my-app
+cd my-app
+npm start
+
+npm install --save react-router-dom
+```
 
 ## Note
 * facebook debug
@@ -18,11 +26,12 @@ delete from `wp_usermeta` where umeta_id in
 )
 ```
 
-## Create a react app
-```zsh
-npx create-react-app my-app
-cd my-app
-npm start
-
-npm install --save react-router-dom
-```
+## Git
+* Git Ignore
+    1. edit git ignore file
+    2. empty the cache `git rm -rf --cached .`
+    3. update change`git add .` -> commit -> push
+* Git unadd file
+    `git reset` will reset all the added file
+    `git stash -u` will recovery all the added file before changed.
+    `git stash pop` will change all the files before it run `git stash -u`
